@@ -1,7 +1,0 @@
-# Dirs
-.vs/
-bin/
-bin-int/
-
-# Files
-*.user
